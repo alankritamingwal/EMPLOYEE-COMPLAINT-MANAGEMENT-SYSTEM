@@ -29,4 +29,13 @@ The implementation of ECMS portal is divided into three parts which includes:
  2.4  user dashboard
 3. Database
 
+# PROPOSED WORK
+# HOMEPAGE
+1. In order for our application to work, we first navigate through homepage.
+2. In our application, we have two portals i.e Admin and User. In Admin, all the complaints 
+of users are managed. On the other hand, User portal is used for registering the 
+complaints.
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/index.png)
+
+
  
