@@ -35,7 +35,40 @@ The implementation of ECMS portal is divided into three parts which includes:
 2. In our application, we have two portals i.e Admin and User. In Admin, all the complaints 
 of users are managed. On the other hand, User portal is used for registering the 
 complaints.
+
 ![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/index.png)
+
+# Admin login
+3.Admin can login through this page using his/her credentials
+
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/admin%20login.png)
+
+# Admin dashboard
+4.This dashboard represents all the complaints registered by different user and according to 
+it complaints are processed by the admin
+
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/admin%20dashboard%20(2).png)
+
+# User resigtration
+5. this page is used for new user regitration
+
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/user%20resgitration.png)
+
+# User profile
+6.  After the registration is completed , now user can directly manage their account using 
+user profile page
+
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/user%20profile.png)
+
+# Register complaint
+7. Here, user can register their complaints according to the concerned department
+
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/register%20complaint.png)
+
+# User Dashboard
+8. This gives a brief summary of all registered complaints by different users and their status
+
+![](https://github.com/alankritamingwal/EMPLOYEE-COMPLAINT-MANAGEMENT-SYSTEM/blob/main/complain%20history.png)
 
 
  
